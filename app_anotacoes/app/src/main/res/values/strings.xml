@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">app_anotacoes</string>
+    <string name="txt_edit_app_anotacoes">App Anotações!</string>
+    <string name="txt_edit_titulo">Título</string>
+    <string name="txt_edit_conteudo">Conteúdo</string>
+    <string name="txt_edit_lembrete">Lembrete</string>
+    <string name="txt_edit_criar">Criar</string>
+    <string name="txt_edit_salvar">Salvar</string>
+    <string name="txt_edit_inserir_imagem">Inserir imagem</string>
+    <string name="txt_edit_excluir">Excluir</string>
+</resources>
