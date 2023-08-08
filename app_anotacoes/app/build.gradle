@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace 'dev.android.monique.franca.app.lista.app_anotacoes'
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
         applicationId "dev.android.monique.franca.app.lista.app_anotacoes"
         minSdk 26
-        targetSdk 32
+        targetSdk 33
         versionCode 1
         versionName "1.0"
 
